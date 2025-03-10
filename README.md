@@ -6,7 +6,7 @@
 ### <div align="center">I'm Amal Raj, a full-time AWS DevOps Engineer   👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/amalaws)  
+- 🔭 I’m currently working on Talkdesk
   
 
 - 📫 How to reach me amalsri225@gmail.com  
@@ -117,4 +117,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
