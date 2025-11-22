@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amal Raj, a full-time AWS DevOps Engineer   👨‍💻🚀</div>  
+### <div align="center">I'm Amal Raj, a full-time AWS DevOps Engineer   👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on Talkdesk
