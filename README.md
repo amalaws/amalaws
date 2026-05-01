@@ -6,7 +6,7 @@
 ### <div align="center">I'm Amal Raj, a full-time AWS DevOps Engineer   👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on Talkdesk
+- 🔭 I’m currently working on Zelis
   
 
 - 📫 How to reach me amalsri225@gmail.com  
